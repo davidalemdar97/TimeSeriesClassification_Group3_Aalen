@@ -1,0 +1,1 @@
+# TimeSeriesClassification_Group3_Aalen
